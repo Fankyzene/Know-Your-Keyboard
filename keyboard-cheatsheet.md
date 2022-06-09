@@ -1,8 +1,6 @@
 parentheses ( ) shift+8-9
 
-
 box brackets [ ] alt+f-g
-
 
 curly braces { } alt+bn
 chevrons < > alt+í-y
